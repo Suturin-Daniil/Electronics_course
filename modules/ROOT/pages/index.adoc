@@ -7,4 +7,4 @@
 
 .Virtual scheme
 [#img-VM_scheme, caption="Figure 1: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png]
-image::VM_scheme[]
+image::link[VM_scheme]
