@@ -8,3 +8,11 @@
 .Virtual scheme
 [#img-VM_scheme, caption="Figure 1: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png]
 image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png[VM_scheme]
+
+Схема включает следующие компоненты:
+. Два электролитических конденсатора равной емкости
+. Два светодиода
+. Два биполярных транзистора
+. Источник постоянного напряжения в виде батареек
+. Резисторы
+. Соединительные провода
