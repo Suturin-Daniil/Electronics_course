@@ -21,3 +21,13 @@ image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/RO
 
 Как можно заметить, конденсаторы подключены на шину питания своим "отрицательным" выводом, что не остается без внимания анализатором виртуальных схем Tinkercad.
 Такая схема по мнению Tinkercad ошибочна, однако натурное моделирование покажет, что такая конфигурация верна и схема работает корректно.
+
+
+== 2.Создание принципиальной схемы мигатора в среде EasyEDA
+
+Первый этап разработки платы заключается в том, чтобы создать принципиальную схему мигатора, которую в дальнейшем EasyEDA преобразует к виду печатной платы (PCB - printed circuit board).
+Я использовал полную схему (Рис.2), включающую стабилизотор напряжения на входе мигатора. Как увидим далее, такое решение влечет некоторые трудности.
+
+.Circuit diagram
+[#img-circuit_diagram, caption="Figure 2: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png[VM_scheme]
