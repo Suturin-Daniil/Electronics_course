@@ -37,8 +37,8 @@ image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/RO
 Следующий шаг - преобразовать принципиальную схему, полученную в предыдущем шаге, к виду печатной платы. На рисунке 3 ниже представлен вид неразведенной платы, то есть дорожки, соединяющие элементы мигатора, пересекаются.
 
 .Unsolved PCB
-[#img-unsolved_pcb, caption="Figure 3: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_circuit_diagram.png]
-image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_circuit_diagram.png[circuit_diagram]
+[#img-unsolved_pcb, caption="Figure 3: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_unsolved_PCB.png]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_unsolved_PCB.png[unsolved_pcb]
 
 Цель - разположить на огрантченном пространстве печатной платы (в моем случае 55х75 см) элементы так, чтобы свести пересечения дорожек к минимуму. Это оказалось не так-то просто.
 В случае укороченной схемы мигатора (без стабилизатора напряжения) еще посильно развести плату вручную, однако полную схему даже автотрассировка EasyEDA не справляется, поэтому необходимо разместить элементы мигатора
