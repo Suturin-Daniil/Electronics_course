@@ -1,0 +1,2 @@
+* xref:index.adoc[https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/pages/index.adoc]
+* xref:images[https://github.com/Suturin-Daniil/Electronics_course/tree/main/modules/ROOT/images]
