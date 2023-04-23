@@ -49,3 +49,17 @@ image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/RO
 [#img-pcb_scheme, caption="Figure 4: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png]
 image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png[pcb_scheme]
 
+== 4.Производство платы на фрейзерном станке
+
+Далее во FlatCAM задаем параметры платы - ширину дорожек, расстояние между дорожками, диаметр отверстий - соответствующие параметрам станка. В моем случае ширина сверла 0.8 мм.
+Полученный .iso файлы запускаем на станке. У меня вышла следующая плата (Рис. 5)
+
+.PCB
+[#img-pcb, caption="Figure 5: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png[pcb_scheme]
+
+Также, импортировав из EasyEDA плату в .svg формате в CorelDraw, я нанес шелкографию для удобства в процессе пайки (Рис. 6)
+
+.serigraphy
+[#img-serigraphy, caption="Figure 6: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png[pcb_scheme]
