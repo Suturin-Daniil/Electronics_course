@@ -55,11 +55,11 @@ image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/RO
 Полученный .iso файлы запускаем на станке. У меня вышла следующая плата (Рис. 5)
 
 .PCB
-[#img-pcb, caption="Figure 5: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png]
-image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png[pcb_scheme]
+[#img-pcb, caption="Figure 5: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/PCB.jpg]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/PCB.jpg[PCB]
 
 Также, импортировав из EasyEDA плату в .svg формате в CorelDraw, я нанес шелкографию для удобства в процессе пайки (Рис. 6)
 
 .serigraphy
-[#img-serigraphy, caption="Figure 6: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png]
-image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/EasyEDA_PCB_scheme.png[pcb_scheme]
+[#img-serigraphy, caption="Figure 6: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/PCB_serigraphy.JPG]
+image::https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/PCB_serigraphy.JPG[serigraphy]
