@@ -5,9 +5,8 @@
 В данном разделе рассмотрим процесс моделирования схемы мигатора в Tinkercad.
     Принципиальная схема представлена на рис.1 ниже:
 
-.Virtual scheme
-[#img-VM_scheme, caption="Figure 1: ", link=https://github.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png]
-image::https://raw.githubusercontent.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png[VM_scheme]
+
+image::https://raw.githubusercontent.com/Suturin-Daniil/Electronics_course/main/modules/ROOT/images/VM_scheme.png
 
 
 Схема включает следующие компоненты:
