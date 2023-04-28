@@ -6,7 +6,7 @@
     Принципиальная схема представлена на рис.1 ниже:
 
 
-image::https://raw.githubusercontent.com/Suturin-Daniil/Electronics_course/main/modules/ROOT/images/VM_scheme.png
+image::https://raw.githubusercontent.com/Suturin-Daniil/Electronics_course/blob/main/modules/ROOT/images/VM_scheme.png
 
 
 Схема включает следующие компоненты:
